@@ -12,7 +12,7 @@ A light `<template>` tags based template parser
 
 ## Usage
 
-For fonctional samples, please see the [demonstration file](./demonstration.html.
+For fonctional samples, please see the [demonstration file](./demonstration.html).
 
 ### The javaScript part
 
